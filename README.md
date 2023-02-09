@@ -1,2 +1,1 @@
-# snake
-klasyczna gra snake
+This is a classic Snake game developed in C++ The goal of the game is to control the snake and eat as many food pellets as possible without hitting the wall or running into the snake's own tail. The game has a simple user interface and the player can use the arrow keys to control the snake's direction. The code is well-commented and easy to understand.
